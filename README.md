@@ -1,6 +1,6 @@
-# Portfolio 1
+# Portfolio #1
 
-
+# 1) Experimenting with Markdown from Assignment 1
 ##  Name
 **My name is Amara Huntington**
 ### Photo
