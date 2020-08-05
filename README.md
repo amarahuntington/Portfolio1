@@ -1,18 +1,22 @@
 # Portfolio #1
 
-##1) Loop Conversion
+## 1) Loop Conversion
 
 [This is an example of code which uses a loop to convert seconds into milliseconds.](Loop.md)
 
-##2) Manipulating Dictionairies
+## 2) Manipulating Dictionairies
 
 [This is an example of code that allows you to edit established dictionairies.](europe.md)
 
-##3)Reading and Examining Datafiles
+## 3)Reading and Examining Datafiles
 
 [this is an example of code that is used to read and examine datafiles.](reading.md)
 
-4)
+## 4)Creating a barplot with subgroups and subplots
+This photo shows an example from Datacamp where I created a barplot from the provided data, adjusted the subplots per gender, and added a title + axis labels
+
+<img width="861" alt="plot" src="https://user-images.githubusercontent.com/69179367/89362806-28c26d80-d6a5-11ea-989e-d31937725681.png">
+
 5) Experimenting with Markdown
 ##  Name 
 
