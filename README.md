@@ -22,6 +22,8 @@ This photo shows an example from Datacamp where I created a barplot from the pro
 **My name is Amara Huntington** 
 
 Here is a photo of me in Bali, Indonesia.
+
+
 ![Pic](https://user-images.githubusercontent.com/69179367/89253756-dffeac00-d5f3-11ea-8a35-362c7cff7db7.jpg) 
 
 ~~I'm currently in my fourth year~~ 
