@@ -1,10 +1,11 @@
 # Portfolio #1
 
 1) Loop Conversion
-[This is an example of code which uses a loop to convert seconds into milliseconds.](loop.md) 
-2) Reading and Examining Files
-3) Creating a Barplot with subgroups and subplots
-4) Manipulating dictionaries
+[This is an example of code which uses a loop to convert seconds into milliseconds.](Loop.md) 
+2) Manipulating Dictionairies
+[This is an example of code that allows you to edit established dictionairies.](europe.md)
+3)
+4)
 5) Experimenting with Markdown
 ##  Name 
 
