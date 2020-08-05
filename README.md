@@ -17,25 +17,18 @@ This photo shows an example from Datacamp where I created a barplot from the pro
 
 <img width="861" alt="plot" src="https://user-images.githubusercontent.com/69179367/89362806-28c26d80-d6a5-11ea-989e-d31937725681.png">
 
-5) Experimenting with Markdown
-##  Name 
+## 5) Experimenting with Markdown
 
 **My name is Amara Huntington** 
-
-### Photo 
-
+Here is a photo of me in Bali, Indonesia.
 ![Pic](https://user-images.githubusercontent.com/69179367/89253756-dffeac00-d5f3-11ea-8a35-362c7cff7db7.jpg) 
-
-### Year 
 
 ~~I'm currently in my fourth year~~ 
 
-### Major 
-
+Majoring in: 
 **_Neuroscience_** 
 
-### Reason for Enrollment  
-
+Reason for Enrollment in Neural Data Science
 **To fulfill the lab requirement for my degree program. I also hope to expand my skill set in this unfamiliar field in order to become a well rounded student.** 
 
 ### Interest in Neuroscience 
