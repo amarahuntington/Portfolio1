@@ -1,11 +1,17 @@
 # Portfolio #1
 
 1) Loop Conversion
-[This is an example of code which uses a loop to convert seconds into milliseconds.](Loop.md) 
+
+[This is an example of code which uses a loop to convert seconds into milliseconds.](Loop.md)
+
 2) Manipulating Dictionairies
+
 [This is an example of code that allows you to edit established dictionairies.](europe.md)
+
 3)Reading and Examining Datafiles
+
 [this is an example of code that is used to read and examine datafiles.](reading.md)
+
 4)
 5) Experimenting with Markdown
 ##  Name 
